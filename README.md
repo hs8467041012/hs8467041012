@@ -1,9 +1,9 @@
 # Hi 👋, I'm Himanshu Kumar Sukralia
 
 🚀 **AI/ML Engineer | Machine Learning Engineer | Data Science Enthusiast**  
-🎓 B.Tech in Computer Science & Engineering  
+🎓 B.Tech in Computer Science & Engineering  - KIET Group of Instituions (2022-2026), CGPA: 8.0
 💡 Passionate about building intelligent systems using Machine Learning, Deep Learning, and Computer Vision  
-📍 India
+📍 New Delhi, India
 
 ---
 
