@@ -19,25 +19,31 @@
 
 ### 🔹 Programming & Tools
 - Python, SQL, Git, GitHub  
-- NumPy, Pandas, Matplotlib, Seaborn  
+- NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn  
+- AWS, CI/CD, Docker
+
 
 ### 🔹 Machine Learning & AI
 - Machine Learning, Deep Learning  
 - NLP (Text preprocessing, Sentiment Analysis)  
 - Computer Vision (OpenCV, dlib, YOLO)  
 - CNNs, Neural Networks  
+- Transformers, RAG, LLM, GCP
+
 
 ### 🔹 Frameworks & Platforms
 - TensorFlow, PyTorch  
 - Streamlit  
 - Google Colab  
+- Nvidia DGX A100 - Kuberflow
+
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🚗 **SafeDrive – Real-Time Driver Drowsiness Detection**
-- AI-based system to detect driver fatigue using **YOLO, CNNs, and facial landmarks (EAR, MAR)**
+- AI-based system to detect driver fatigue using **YOLO, CNNs, and facial landmarks (EAR, MAR, NLR)**
 - Real-time alert mechanism to prevent road accidents  
 - Tech: Python, OpenCV, YOLO, Streamlit
 
@@ -47,11 +53,11 @@
 
 ### 💬 **Sentiment Analysis**
 - NLP-based sentiment classification system
-- Used text preprocessing, feature extraction, and ML models
+- Used text preprocessing, feature extraction, and ML models, XGBoost
 
 ### 📊 **Intelligent Customer Retention System**
 - Predictive analytics to identify potential customer churn
-- Focused on business intelligence using machine learning
+- Focused on business intelligence using deep learning ANN
 
 ---
 
