@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍💻 About Me
-- Final-year **B.Tech CSE** student with hands-on experience in **AI/ML, NLP, Deep Learning, and Computer Vision**
+- Final-year **B.Tech CSE** student with hands-on experience in **AI/ML, NLP, Deep Learning and Computer Vision**
 - Built real-world projects like **driver drowsiness detection**, **sentiment analysis**, and **customer retention systems**
 - Comfortable working with **end-to-end ML pipelines**, from data preprocessing to model deployment
 - Actively seeking roles/internships as **AI/ML Engineer / Machine Learning Engineer / Data Scientist**
